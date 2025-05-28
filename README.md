@@ -79,7 +79,7 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:3000` in your browser to view the app.
+Open `http://localhost:5173` in your browser to view the app.
 
 ---
 
@@ -92,8 +92,7 @@ Deployed seamlessly with **Vercel**
 
 ## 🛠️ Future Enhancements
 
-* 🎵 Background audio toggle
-* 🎙️ Voice narration per page
+* 🎵 Background toggle
 * 💡 Page reflections or lighting effects
 
 ---
