@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://dummyimage.com/100x100/cccccc/000000&text=Book" alt="Manali SlideBook Logo" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/aaditya7788/Manali_SlideBook/refs/heads/main/public/images/icon.png" alt="Manali SlideBook Logo" width="100" height="100" />
 </p>
 
 <h1 align="center">📘 Manali SlideBook</h1>
@@ -54,7 +54,7 @@
 
 | Cover | Inside Page |
 |-------|-------------|
-| ![Cover](https://dummyimage.com/600x400/aaaaaa/000000&text=Cover+Preview) | ![Page](https://dummyimage.com/600x400/cccccc/000000&text=Page+Preview) |
+| ![Cover](https://raw.githubusercontent.com/aaditya7788/Manali_SlideBook/refs/heads/main/public/images/bookcover.png) | ![Page](https://raw.githubusercontent.com/aaditya7788/Manali_SlideBook/refs/heads/main/public/images/bookpage.png) |
 
 ---
 
