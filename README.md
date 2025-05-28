@@ -1,4 +1,4 @@
-```
+
 <p align="center">
   <img src="https://dummyimage.com/100x100/cccccc/000000&text=Book" alt="Manali SlideBook Logo" width="100" height="100" />
 </p>
@@ -118,5 +118,5 @@ If you enjoyed this virtual travel album, consider giving it a ⭐ on GitHub and
 ## 📄 License
 
 This project is licensed under the MIT License.
-```
+
 
