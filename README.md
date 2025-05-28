@@ -86,7 +86,7 @@ Open `http://localhost:5173` in your browser to view the app.
 ## 🚀 Deployment
 
 Deployed seamlessly with **Vercel**  
-🔗 [Live Demo](https://your-live-demo-link.com)
+🔗 [Live Demo](https://manali-slide-book-3uex5edz6-aadityas-projects-a8de4b44.vercel.app/)
 
 ---
 
@@ -102,7 +102,7 @@ Deployed seamlessly with **Vercel**
 **Aaditya Sahani**  
 Fullstack Developer | 3D UI Enthusiast | Creative Coder
 
-- 🌐 [Portfolio](https://aadityasahani.vercel.app)  
+- 🌐 [Portfolio](https://space-portfolio-one-self.vercel.app/)  
 - 🧑‍💻 [GitHub](https://github.com/aaditya7788)  
 - 🗨️ [Telegram](https://t.me/Aaditya84197943)
 
