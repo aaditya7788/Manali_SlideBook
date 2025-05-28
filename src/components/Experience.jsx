@@ -1,4 +1,4 @@
-import { Environment, OrbitControls } from "@react-three/drei";
+import { Environment, OrbitControls, Float } from "@react-three/drei";
 import { Book } from "./Book";
 import { useMemo, useRef } from "react";
 import { useFrame } from "@react-three/fiber";
@@ -86,8 +86,16 @@ export const Experience = () => {
     <>
       <GradientBackground />
       <Snowfall />
+      <Float
+        rotation-x={-Math.PI / 4}
+        floatIntensity={1}
+        speed={2}
+        rotationIntensity={2}
+      >
+          <Book />
 
-      <Book />
+      </Float>
+      
 
       <OrbitControls />
       <Environment preset="studio" />
