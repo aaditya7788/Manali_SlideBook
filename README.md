@@ -23,7 +23,7 @@
 
 **Manali SlideBook** is a unique digital flipbook that blends technology and travel. Built using **Next.js** and **Three.js**, it recreates the nostalgic feel of flipping through a photo album—but in 3D.
 
-> 🌐 **Live Demo:** [manali-slide-book.vercel.app](https://manali-slide-book.vercel.app/)
+> 🌐 **Live Demo:** [manali-slide-book.vercel.app](manali-slide-book.vercel.app)
 
 ---
 
